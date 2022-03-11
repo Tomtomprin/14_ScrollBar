@@ -1,0 +1,9 @@
+.news_box {
+    width: 80%;
+    margin: auto;
+    overflow-y: scroll;
+    scrollbar-width: thin;
+    max-height: 500px;
+    background: lightblue;
+    /* overflow-x: hidden; */
+}
